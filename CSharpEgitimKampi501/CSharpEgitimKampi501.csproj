@@ -49,6 +49,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Connection\DatabaseConnectionString.cs" />
     <Compile Include="Dto\CreateProductDto.cs" />
     <Compile Include="Dto\ResultProductDto.cs" />
     <Compile Include="Dto\UpdateProductDto.cs" />
